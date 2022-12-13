@@ -1,0 +1,22 @@
+{
+  "name": "is-ashin",
+  "version": "1.0.0",
+  "description": "npm package to check string is ashin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashin-55/package.git"
+  },
+  "keywords": [
+    "is-ashin"
+  ],
+  "author": "Ashin Thankachan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashin-55/package/issues"
+  },
+  "homepage": "https://github.com/Ashin-55/package#readme"
+}
